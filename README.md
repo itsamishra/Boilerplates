@@ -1,2 +1,3 @@
-# Web-Scraping-Boilerplate
-Template for web scraping in Python
+# Boilerplates
+
+Boilerplate code for functionalities I frequently use
